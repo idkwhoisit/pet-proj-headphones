@@ -292,6 +292,7 @@ body {
 @media (max-width: 560px) {
   .header .header__content .title {
     font-size: 36px;
+    letter-spacing: 0;
   }
   .header .menu .menu__list {
     gap: 0 14px;
