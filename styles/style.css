@@ -179,7 +179,7 @@ body {
 .audio .audio__inner .audio__box {
   color: #fff;
   text-align: center;
-  padding-bottom: 30vh;
+  padding-bottom: 50vh;
 }
 .audio .audio__inner .audio__text {
   width: 300px;
@@ -195,6 +195,22 @@ body {
 }
 
 .footer {
+  text-align: center;
+  font-weight: 700;
   padding: 50px 0 40px;
   background-color: #000;
+  color: #fff;
+}
+.footer .footer__text {
+  margin: 20px 0;
+}
+.footer .footer__logo {
+  width: 30px;
+  margin: 0 auto 80px;
+}
+.footer .footer__list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
 }/*# sourceMappingURL=style.css.map */
